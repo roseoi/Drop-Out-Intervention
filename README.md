@@ -100,7 +100,7 @@ This dashboard can help institutions:
 
 - `Dropout-Intervention.pdf` — Snapshot of the dashboard and all visuals.
 - `README.md` — Project documentation (this file).
-- Power BI file (`.pbix`) — 
+- Power BI report (`.pdf`) — 
 
 ---
 
